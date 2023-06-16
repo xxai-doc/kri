@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , ad sɔm ficha dɛn pan di bies fɔ kɔfiskript sɛntaks, si [coffee_plus](./coffee_plus.md) .
 
-* deklare di vayriɔbul
+## deklare di vayriɔbul
 
 ```
 + var1, var2
 ```
 
-* diklareshɔn lɛbl
+## diklareshɔn lɛbl
 
 `:$` na fɔ yuz wit [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) .
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* kwik fɔ import
+## kwik fɔ import
 
 ```
 > zx/globals:
